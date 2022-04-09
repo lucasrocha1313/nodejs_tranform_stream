@@ -1,0 +1,10 @@
+{
+  "name": "transform-sumprofit-country",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "csv-parse": "^5.0.4"
+  }
+}
